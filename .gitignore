@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# PyCharm / IntelliJ
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+air pollution.xlsx
+air_pollution.csv
+merged_data.xlsx
+weather.csv
+weather.xlsx
+
+# Project documents
+Timeseries Analysis of Air Quality of Kathmandu.docx
+Timeseries Analysis of Air Quality of Kathmandu.pdf
